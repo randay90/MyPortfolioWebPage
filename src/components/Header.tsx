@@ -15,7 +15,7 @@ export default function Header({
   return (
     <header>
       <nav>
-        <div className="logo">LLC Davis Automation</div>
+        <div className="logo">LLC. Davis Automation</div>
 
         {/* Desktop Menu */}
         <div className="nav-desktop">
