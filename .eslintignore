@@ -1,0 +1,4 @@
+.github/
+.vscode/
+*.pem
+.env.*.local
