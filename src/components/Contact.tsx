@@ -59,9 +59,9 @@ export default function Contact(): React.ReactElement {
   return (
     <section id="contact" className="section section-dark">
       <div className="container ai-art-container">
-        <h2 className="section-title">AI Art Playground</h2>
+        <h2 className="section-title">A.I. Art Playground</h2>
         <p className="section-subtitle">
-          Having fun with generative AI to explore creative possibilities and design concepts
+          Having fun with generative A.I. to explore creative possibilities and design concepts
         </p>
 
         <div className="carousel-wrapper">

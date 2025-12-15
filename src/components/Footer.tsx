@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaGithub, FaLinkedin, FaTiktok, FaTwitter } from 'react-icons/fa'
+import { FaGithub, FaLinkedin, FaTiktok } from 'react-icons/fa'
 
 export default function Footer(): React.ReactElement {
   const currentYear = new Date().getFullYear()
