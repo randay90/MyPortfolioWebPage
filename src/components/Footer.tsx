@@ -14,7 +14,7 @@ export default function Footer(): React.ReactElement {
         </div>
 
         <div className="social-links">
-          <a href="https://github.com/randay90/my-static-blazor-app" className="social-link" aria-label="GitHub">
+          <a href="https://github.com/randay90/MyPortfolioWebPage" className="social-link" aria-label="GitHub">
             <FaGithub />
           </a>
           <a href="https://www.linkedin.com/in/thedadshow" className="social-link" aria-label="LinkedIn">
