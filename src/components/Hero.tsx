@@ -12,7 +12,7 @@ export default function Hero(): React.ReactElement {
         />
         <div>
           <h1>
-            Hi, I'm <span style={{ color: 'var(--highlight-color)' }}>Randy</span>
+            Hi, I'm <span style={{ color: 'var(--highlight-color)' }}>Randy Davis</span>
           </h1>
           <p className="hero-subtitle">
             Research Application Developer & Site Reliability Engineer
